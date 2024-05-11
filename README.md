@@ -47,5 +47,3 @@ Contributions are welcome! If you'd like to contribute to NyayMitra, please foll
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-This markdown file contains all the information about your NyayMitra project in a structured format. You can save it as `README.md` in your project repository.
