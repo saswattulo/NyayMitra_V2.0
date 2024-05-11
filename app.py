@@ -10,8 +10,8 @@ os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 def main():
 
     index_placeholder = None
-    st.set_page_config(page_title = "NyayMitra", page_icon="🦙")
-    st.header('NyayMitra')
+    st.set_page_config(page_title = "NyayMitra", page_icon="👩‍⚖️")
+    st.header('NyayMitra 👩‍⚖️')
     
     if "conversation" not in st.session_state:
         st.session_state.conversation = None
@@ -28,7 +28,7 @@ def main():
 
     with st.sidebar:
         st.subheader('Start your chat here')
-        if st.button('Process'):
+        if st.button('Click Here'):
             with st.spinner('Processing'):
 
                 storage_context = StorageContext.from_defaults(persist_dir="index_v2.0")
