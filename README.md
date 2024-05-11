@@ -1,4 +1,4 @@
-# NyayMitra: Law Chatbot
+# NyayMitra: Law Chatbot 👩‍⚖️
 
 Welcome to NyayMitra, a law chatbot built using Python and Streamlit library. 
 
